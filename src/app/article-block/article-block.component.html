@@ -1,0 +1,19 @@
+<div class="box" *ngFor="let content of displayContent">
+    <ul class="card-container" *ngFor="let key of objectKeys(content)">
+        <div class="check">
+            <li>
+                <h2 class="heading">{{key}}</h2>
+            </li>
+        </div>
+        <div class="some">
+            <li *ngFor="let obj of content[key]">
+                <div class="main-card">
+                    <img class="image" src={{obj.imageLink}}>
+                    <h1>{{obj.title}}</h1>
+                    <p>{{obj.description}}</p>
+                    <button class="download">Download PDF</button>
+                </div>
+            </li>
+        </div>
+    </ul>
+</div>

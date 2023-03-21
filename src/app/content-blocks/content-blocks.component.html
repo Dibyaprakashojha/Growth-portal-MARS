@@ -1,0 +1,25 @@
+<div *ngIf="blockValue==='europe'" class="content">
+    <button mat-button class="content-box">
+        Intro to BCC
+    </button>
+    <button mat-button class="content-box">
+        Social Media
+    </button>
+    <button mat-button (click)="brandContent()" class="content-box">
+        Brand Content
+    </button>
+    <button mat-button class="content-box">
+        Brand Sites & Search
+    </button>
+    <button mat-button class="content-box">
+        dComm Content
+    </button>
+</div>
+<div *ngIf="blockValue==='america'" class="content">
+    <button mat-button class="content-box"> Intro to NA B&C Hub</button>
+    <button mat-button class="content-box"> Content </button>
+    <button mat-button class="content-box"> Digital & Social Policy and Guidelines</button>
+    <button mat-button class="content-box"> Brand Sites & Search </button>
+    <button mat-button class="content-box"> In-House Created Digital Content</button>
+</div>
+<app-article-block *ngIf="brandContentArray?.length>0" [displayArray]="brandContentArray"></app-article-block>

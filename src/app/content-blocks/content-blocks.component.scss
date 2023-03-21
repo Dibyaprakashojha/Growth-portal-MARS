@@ -1,0 +1,46 @@
+
+.image-conatiner{
+    height:25%;
+    width:100%;
+}
+.brand-hubs-container{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+
+}
+.brand-hub-box{
+    background-color:#0000a0 ;
+    font-size: 25px;
+    font-weight:bold;
+    color:white;
+    height: 300px;
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px;
+}
+.content{
+    list-style-type: none;
+    display: flex;
+    justify-content:center
+}
+
+.content-box{
+    width:15%;
+    height: 200px;
+    border-width:  15px;
+    border-style: solid;
+    border-color: yellow;
+    margin:15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.mat-button{
+    color: white;
+}
+

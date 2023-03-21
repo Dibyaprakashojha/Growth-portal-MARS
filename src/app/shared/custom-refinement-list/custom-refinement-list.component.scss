@@ -1,0 +1,35 @@
+
+.buttons-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 30px;
+    padding: 30px;
+}
+
+.refinement-button{
+    border-width: 2px;
+    height: 50px;
+    width:170px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color:  #0000a0;
+    background-color: white;
+    color:#0000a0;
+    margin-left:15px;
+
+}
+
+.refinement-button-2{
+    border-width: 2px;
+    height: 50px;
+    width:170px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color:  #0000a0;
+    background-color: #0000a0;
+    color:white;
+    margin-left:15px;
+
+}

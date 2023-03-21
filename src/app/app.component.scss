@@ -1,0 +1,54 @@
+.bottom-conatainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    // z-index: -1;
+}
+
+
+.top{
+
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    align-items: center;
+    width:100%;
+    justify-content: flex-end;
+}
+p,svg{
+    margin: 15px;
+}
+
+mat-button{
+    height: 200px;
+}
+::ng-deep{
+mat-toolbar{
+    position: sticky;
+    margin-bottom: 20px;
+}
+}
+img{
+    height:50px;
+    width:100px;
+}
+li{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.list{
+    display: flex;
+    justify-content: flex-end;
+    list-style-type:none;
+    align-items: center;
+}
+.list-item{
+    margin-left: 5px;
+    border-style:none none none solid;
+    padding: 10px;
+}
+// .outlet-container{
+//     margin-top: 15px;
+// }

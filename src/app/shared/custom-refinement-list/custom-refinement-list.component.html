@@ -1,0 +1,11 @@
+<div class="buttons-list">
+    <span *ngFor="let item of state?.items">
+        <button (click)="sendAllItems(state.items)"
+            [ngClass]="item.isRefined?'refinement-button-2':'refinement-button'">
+            ALL
+        </button>
+        <button (click)="state.refine(item.value)" [ngClass]="item.isRefined?'refinement-button-2':'refinement-button'">
+            {{item.value}}
+        </button>
+    </span>
+</div>

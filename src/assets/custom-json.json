@@ -1,0 +1,128 @@
+[
+    {
+        "modelName": "Europe & BCC Hub",
+
+        "Brand Content": [
+            {"groupNames":["Brand Comms HandBooks","Campaign Development"]},
+            {
+                "Brand Comms HandBooks":[
+                {
+                    "groupName":"Brand Comms HandBooks",
+                    "imageLink": "assets/campaign_data_1.png",
+                    "title": "Bars handbook",
+                    "description": "Bars' 2023 regional content and media prioritisation and guidance to support comms planning and Media2025 ambitions"
+                },
+                {
+                    "groupName":"Brand Comms HandBooks",
+                    "imageLink": "assets/campaign_data_1.png",
+                    "title": "Bitesize handbook",
+                    "description": "Bitesize's 2023 regional content and media prioritisation and guidance to support comms planning and Media2025 ambitions"
+                },
+                {
+                    "groupName":"Brand Comms HandBooks",
+                    "imageLink": "assets/campaign_data_1.png",
+                    "title": "FC handbook",
+                    "description": "Fruity Confection's 2023 regional content and media prioritisation and guidance to support comms planning and Media2025 ambitions"
+                }
+            ]
+            },
+            {
+                "Campaign Development": [
+                    {
+                        "groupName":"Campaign Development",
+                        "imageLink": "assets/campaign_data_1.png",
+                        "title": "EU B&C Campaign Toolkit Guidance & Checklist",
+                        "description": "A comprehensive toolkit checklist to be leveraged by project IATs in campaign development, to drive consistency and ensure all toolkits deployed include the necessary consolidated guidance for markets to execute campaign IBEs successfully."
+                    },
+                    {
+                        "groupName":"Campaign Development",
+                        "imageLink": "assets/campaign_data.png",
+                        "title": "IBE Laydown Template",
+                        "description": "IBE template tool to support IATs in consistent IBE planning, and for presentation of IBEs within final toolkits delivered."
+                    },
+                    {
+                        "groupName":"Campaign Development",
+                        "imageLink": "assets/campaign_data_1.png",
+                        "title": "Equity Brief Ecosystem Template",
+                        "description": "Guidance on how Equity or Purpose consumer journeys should best connect across an IBE as one campaign ecosystem for the consumer, as well as templates & tools for IAT planning"
+                    },
+                    {
+                        "groupName":"Campaign Development",
+                        "imageLink": "assets/campaign_data_1.png",
+                        "title": "Moments Brief Ecosystem Template",
+                        "description": "IBE template tool to support IATs in consistent IBE planning, and for presentation of IBEs within final toolkits delivered."
+                    },
+                    {
+                        "groupName":"Campaign Development",
+                        "imageLink": "assets/campaign_data_1.png",
+                        "title": "IBE Laydown Template",
+                        "description": "Guidance on how Moments-led consumer journeys should best connect across an IBE as one campaign ecosystem for the consumer, as well as templates & tools for IAT planning.."
+                    },
+                    {
+                        "groupName":"Campaign Development",
+                        "imageLink": "assets/campaign_data_1.png",
+                        "title": "NPD Brief Ecosystem Template",
+                        "description": "Guidance on how Product or NPD consumer journeys should best connect across an IBE as one campaign ecosystem for the consumer, as well as templates & tools for IAT planning"
+                    },
+                    {
+                        "groupName":"Campaign Development",
+                        "imageLink": "assets/campaign_data_1.png",
+                        "title": "Ecosystem Guidance & Templates [Master doc]",
+                        "description": "Guidance developed by a team of IAT specialists on how IBE touchpoints should best connect as an ecosystem, as well as 10 golden rules to consider in campaign planning."
+                    }
+                    
+                ]
+            }
+        ],
+        "Social Media": [
+            {
+                "Social Startegies": [
+                    { "title": "Social Handbook V1" },
+                    { "title": "2023 Social Media & Content WoW" },
+                    { "title": "Social KPI Framework Overview" }
+                ]
+            },
+            {
+                "Social Content Toolkits": [
+                    { "title": "Celebrations Social Content Toolkit" },
+                    { "title": "Galaxy Social Content Toolkit" },
+                    { "title": "M&M'S Social Content Toolkit" }
+                ]
+            },
+            {
+                "Social GUides & How TOs": [
+                    {
+                        "title": "Social Influencer Recipe Guidelines"
+                    },
+                    {
+                        "title": "Regional Social Competition Guidelines"
+                    },
+                    {
+                        "title": "Regional Social Gifting Guidelines"
+                    }
+                    ]
+            }
+        ],
+        "dComm Content": [
+            {
+                "Essential Content Brand Toolkits": [
+                    {
+                        "imageLink": "assets/airwaves-dc.jpg",
+                        "title": "Airwaves D.Comm Toolkit V1"
+                    },
+                    {
+                        "imageLink": "assets/bounty-dc.jpg",
+                        "title": "Bounty D.Comm Toolkit V1"
+                    },
+                    {
+                        "imageLink": "assets/bounty-dc.jpg",
+                        "title": "Celebrations Rebrand Toolkit V1"
+                    }
+                       
+                           
+                ]
+             }
+        ]
+    },
+    {"name":"baba"}
+]
